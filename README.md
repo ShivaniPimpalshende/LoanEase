@@ -3,8 +3,6 @@
 
 LoanEase is a full-stack web application designed to simplify the initial loan screening process for financial institutions. It collects applicant information, evaluates basic eligibility, calculates estimated EMIs, and provides explainable screening recommendations.
 
-**Project:** Nice HackArena 2K26 – Loan Application Pre-Screening  
-**Purpose:** Hackathon / educational demonstration
 
 ## Problem Statement
 
@@ -135,24 +133,8 @@ LoanEase uses SQLite for local development and SQLAlchemy for database interacti
 
 Local database files and environment variables should not be committed to the repository.
 
-## Future Enhancements
 
-- Expand automated test coverage.
-- Improve applicant and loan officer access controls.
-- Expand notification delivery and error handling.
-- Add deployment configuration for a production database.
-- Add additional reporting and analytics.
 
-## Disclaimer
 
-LoanEase is an educational hackathon project. Its eligibility rules, interest rates, calculations, and recommendations are for demonstration purposes only. They do not represent official lending terms, financial advice, or a final loan approval decision.
-
-## Author
-
-**Shivani Pimpalshende**  
-B.Tech – Artificial Intelligence  
-G. H. Raisoni College of Engineering & Management, Nagpur
-
-## GitHub Repository
 
 [LoanEase – GitHub](https://github.com/ShivaniPimpalshende/LoanEase)
